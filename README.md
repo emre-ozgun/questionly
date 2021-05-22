@@ -38,3 +38,6 @@ To Be Improved:
 1) Search functionality.
 2) Detailed profile customization.
 3) Notifications.
+-----------------
+Mert Mutlu
+Murat Emre Ozgun
