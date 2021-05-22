@@ -33,6 +33,7 @@ Posts: upvote/downvote -> answers.
   - all answers and questions user participated in are listed as separate sections.
   - user description can be edited.
    
+ Logout functionality -> navigate back to signup/signin page
    
 To Be Improved:
 1) Search functionality.
