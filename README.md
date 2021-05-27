@@ -40,5 +40,5 @@ To Be Improved:
 2) Detailed profile customization.
 3) Notifications.
 -----------------
-Mert Mutlu
-Murat Emre Ozgun
+Mert Mutlu - server-side -> php + mysql
+Murat Emre Ozgun -> client-side -> css + js
